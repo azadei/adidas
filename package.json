@@ -1,0 +1,16 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss":"sass styles/scss/style.scss styles/css/main.css",
+    "compile:scss:watch": "sass --watch styles/scss/style.scss styles/css/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.66.0"
+  },
+  "description": ""
+}
+
